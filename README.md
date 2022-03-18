@@ -1,5 +1,5 @@
 # Contador
-Oi! Meu nome é Fernando Soares, sou Analista de Suporte e adoro a área de tecnologia. Nesse projeto foi criado um contador sequencial.
+Oi! Meu nome é **Fernando Soares**, sou **Analista de Suporte** e adoro a área de tecnologia. Nesse projeto foi criado um contador sequencial.
 
 ### Dados do Projeto
 Foi utilizado as seguintes tecnologias no projeto:
